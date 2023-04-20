@@ -12,7 +12,11 @@
       type="image/x-icon"
     />
         <link rel="stylesheet" href="assets/css/nav.css" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
+      body{
+        margin: 0;
+      }
       .tip {
         width: calc(100% - 37%);
         /* left: 0; */
@@ -45,7 +49,7 @@
         transition: 0.2s;
         visibility: hidden;
         width: 100%;
-        padding: 7px 10px;
+        padding: 5px 8px;
         display: flex;
         align-items: center;
         border-top: none;
@@ -85,19 +89,11 @@
         margin: 0px 2px;
       }
 
-      .home-icon {
-        display: none;
-      }
-
       .Home:before {
         content: url(/assets/images/icons/homeicon.svg);
         display: block;
         width: 20px;
         height: 20px;
-      }
-
-      .fullscreen-icon {
-        display: none;
       }
 
       .Fullscreen:before {
@@ -111,17 +107,16 @@
         display: flex;
         align-items: center;
         justify-content: center;
+        border-radius: 10px;
       }
     </style>
   </head>
   <body>
-    <img class="home-icon" src="/assets/images/icons/homeicon.svg" />
-    <img class="fullscreen-icon" src="/assets/images/icons/fullscreen.svg" />
     <div class="controlpanel">
       <div class="controls">
         <img
           class="icon"
-          src="/assets/images/branding/favicon/favicon.ico"
+          src="/assets/images/branding/favicon.png"
         />
         <form>
           <input style="font-size: 24px" enabled="disabled" value="" />
@@ -140,7 +135,7 @@
     <script>
       const homeButton = document.getElementById("home-button");
       homeButton.addEventListener("click", function () {
-        window.location.href = "/index.html";
+        window.location.href = "/";
       });
     </script>
     <script>

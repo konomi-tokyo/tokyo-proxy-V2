@@ -58,6 +58,24 @@ main{
 	color: var(--hover);
 }
 
+.func{
+	user-select: none;
+	position: fixed;
+	top: 5px;
+	right: 5px;
+	border: 2px solid var(--text);
+	border-radius: 10px;
+	padding: 2px 8px;
+	cursor: pointer;
+	font-size: 14px;
+	transition: color, background 250ms ease-in;
+}
+
+.func:hover{
+	background: var(--text);
+	color: var(--bg);
+}
+
 @media(max-width: 500px){
 	.data{
 		width: 100%;
