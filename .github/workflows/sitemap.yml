@@ -1,0 +1,41 @@
+name: Generate sitemap 
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  sitemap_job:
+    runs-on: ubuntu-latest
+    name: Generate a sitemap
+    steps:
+    - name: Checkout the repo
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0 
+    
+    - name: Generate the sitemap
+      id: sitemap
+      uses: cicirello/generate-sitemap@v1
+      with:
+        base-url-path: https://cybertitus.github.io/P45
+    
+    - name: Output stats
+      run: |
+        echo "sitemap-path = ${{ steps.sitemap.outputs.sitemap-path }}"
+        echo "url-count = ${{ steps.sitemap.outputs.url-count }}"
+        echo "excluded-count = ${{ steps.sitemap.outputs.excluded-count }}"
+    
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v4.2.0
+      with:
+        title: "Automated sitemap update"
+        body: > 
+          Automated changes. Sitemap updated by 
+          the [generate-sitemap](https://github.com/cicirello/generate-sitemap) 
+          GitHub action.  
+        commit-message: "Automated sitemap update."
+        author: Vincent A. Cicirello <cicirello@users.noreply.github.com>
+        committer: Vincent A. Cicirello <cicirello@users.noreply.github.com>
+        branch: create-pull-request/sitemap
+        delete-branch: true
