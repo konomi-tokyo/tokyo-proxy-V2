@@ -10,7 +10,6 @@ Access the web and unblock sites with ease using this proxy website! Say goodbye
 
 Click [here](https://pium.onrender.com/) to go to the website. It's easy to use. 
 
-Alternative server: [cyclic.app](https://sleepy-calf-sweatpants.cyclic.app/)
 
 ## Functions
 
