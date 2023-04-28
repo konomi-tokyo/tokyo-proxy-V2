@@ -27,7 +27,7 @@ function blank3(){
             const style = iframe.style
             const link = doc.createElement("link")
     
-            doc.title = "loading..."
+            doc.title = "about:blank"
             link.rel = "icon";
             link.href = "";
             iframe.src = location.href
@@ -36,6 +36,6 @@ function blank3(){
             style.border = style.outline = "none"
             style.width = style.height = "100%"
             doc.body.appendChild(iframe)
-            //location.replace("https://google.com")
+            location.replace("https://teams.microsoft.com/")
         }
     }}
