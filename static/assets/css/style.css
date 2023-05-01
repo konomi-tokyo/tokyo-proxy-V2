@@ -1,7 +1,7 @@
 :root{
 	--bg: #111;
 	--text: #f4f3ee;
-	--hover: #a9d6e5;
+	--hover: coral;
 }
 
 body{
@@ -38,7 +38,7 @@ main{
 	outline: 0;
 	background: transparent;
 	border: 2px solid var(--text);
-	border-radius: 50px;
+	border-radius: 25px;
 	font-size: 12px;
 	color: var(--text);
 }
@@ -75,6 +75,23 @@ main{
 	background: var(--text);
 	color: var(--bg);
 }
+
+
+.loading{
+	margin: 0;
+	animation: loading 1.5s infinite;
+	animation-delay: revert;
+}
+
+
+@keyframes loading{
+	0%{
+		color: #fff;
+	}50%{
+		color: grey;
+	}
+}
+
 
 @media(max-width: 500px){
 	.data{
