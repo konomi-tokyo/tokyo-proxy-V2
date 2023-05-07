@@ -55,6 +55,8 @@
 		<div class="controls">
 			<button id="home" class="btn material-symbols-outlined">home</button>
 			<button id="screen" class="btn material-symbols-outlined">fullscreen</button>
+			<button id="undo" class="btn material-symbols-outlined" onclick="undo()">undo</button>
+			<button id="redo" class="btn material-symbols-outlined" onclick="redo()">redo</button>
 		</div>
 	</div>
     <iframe
@@ -69,15 +71,24 @@
       allowfullscreen
     ></iframe>
 	<script>
+		const undoBtn = document.getElementById('undo');
+		const redoBtn = document.getElementById('redo');
 		const homeBtn = document.getElementById('home');
 		const screenBtn = document.getElementById('screen');
+		const frame = document.getElementById('frame');
 		homeBtn.onclick = ()=>{window.location.href = '/'}
 		screenBtn.onclick = ()=>{if (!document.fullscreenElement){document.documentElement.requestFullscreen();} else {document.exitFullscreen();}};
 		window.onload = function () {
 			let encodedUrl = sessionStorage.getItem("encodedUrl");
 			encodedUrl = "/service/" + encodedUrl;
-			document.querySelector("#frame").src = encodedUrl;
+			frame.src = encodedUrl;
       };
+    function undo(){
+    	frame.contentWindow.history.back();
+    }
+    function redo(){
+    	frame.contentWindow.history.forward();
+    }
 	</script>
 </body>
 </html>
