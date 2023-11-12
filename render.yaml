@@ -1,6 +1,6 @@
 
   services:
   - type: web
-    name: P45
+    name: tokyo-proxy
     env: docker
     plan: free
