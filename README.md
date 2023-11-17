@@ -38,6 +38,9 @@ Public Git repositoryのところに　https://github.com/korokken/tokyo-proxy.g
 
 
 
+i-filter勢の人は不確定サイトでブロックされるのを防ぐために、your service is liveになってから8~16時間後までは稼働させとく
+
+
 
 
 
