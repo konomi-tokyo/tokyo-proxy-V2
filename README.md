@@ -74,3 +74,5 @@ proxyなどを探したり作ったり教え合ったりします。
 
 P45の製作者様に大変感謝します！
 
+Many thanks to the creators of P45!
+
