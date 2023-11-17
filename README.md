@@ -24,7 +24,7 @@ new＋を押してWeb Serviceを押す
 
 
 
-Public Git repositoryのところに　https://github.com/korokken/tokyo-proxy.git
+Public Git repositoryの枠にhttps://github.com/korokken/tokyo-proxy.git
 を入れる
 
 
