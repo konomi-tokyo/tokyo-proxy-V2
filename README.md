@@ -45,8 +45,8 @@ i-filter勢の人は不確定サイトでブロックされるのを防ぐため
 
 
 
-konoMiスペース[シビックタイプR]へ招待されています。
-招待コード : [red]042158[/red]
+konoMi[サイト教え合い]へ招待されています。
+招待コード : 042158
 
 
 https://service.lsapp.space/konomi
