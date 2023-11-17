@@ -1,7 +1,7 @@
 {
   "name": "P45",
   "version": "1.0.0",
-  "description": "P45",
+  "description": "tokyo-proxy",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
