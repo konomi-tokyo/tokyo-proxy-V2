@@ -3,7 +3,7 @@
 
 
 
-１、作り方 ↓
+１、作り方 ↓　(日本語版)
 
 
 
@@ -18,14 +18,14 @@
 
 
 
-３，new＋を押してWeb Serviceを押す
+３，「new＋」を押して「Web Service」を押す
 
 
 
 
 
 
-４、Public Git repositoryの枠にhttps://github.com/korokken/tokyo-proxy.git
+４、Public Git repositoryの枠に「https://github.com/korokken/tokyo-proxy.git」
 を入れる
 
 
@@ -38,7 +38,25 @@
 
 
 
-６、終わり
+６、「your service is live」まで待つ
+
+７、完成！
+
+
+1, How to make↓　(English edition)
+
+2, Go to https://dashboard.render.com
+(log in to github and render)
+
+3, Press "new+" and press "Web Service"
+
+4, Enter “https://github.com/korokken/tokyo-proxy.git” in the Public Git repository frame
+
+5, Decide on a domain name and press “Create Web Service"
+
+6,Wait until "your service is live"
+
+7,Complete!
 
 
 
