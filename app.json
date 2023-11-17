@@ -1,7 +1,7 @@
 {
-    "name": "P45",
-    "description": "P45",
-    "repository": "https://github.com/cybertitus/P45",
+    "name": "tokyo-proxy",
+    "description": "tokyo-proxy",
+    "repository": "https://github.com/konomi-tokyo/tokyo-proxy.git",
     "logo": "",
-    "keywords": ["P45", "proxy", "www"]
+    "keywords": ["tokyo-proxy", "proxy", "www"]
   }
