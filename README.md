@@ -44,6 +44,11 @@ Public Git repositoryのところに　https://github.com/korokken/tokyo-proxy.g
 
 konoMiスペース[避難場シビックタイプR]へ招待されています。
 招待コード : 042158
-有効期限 : 無期限
 https://service.lsapp.space/konomi
+
+
+
+
+
+これ入ってくれたら嬉しぃなぁ()
 
