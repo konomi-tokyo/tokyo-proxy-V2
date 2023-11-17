@@ -31,6 +31,20 @@ to japanese people　If you use Google Translate, you may not understand (the tr
 
 7,Complete!
 
+1.如何製作↓（中文版）
+
+2.造訪https://dashboard.render.com（登入github並渲染）
+
+3.按“新建+”，然後按“Web服務”
+
+4. 在公共 Git 儲存庫框架中輸入“https://github.com/korokken/tokyo-proxy.git”
+
+5. 決定網域名稱並按“建立Web服務”
+
+6. 等待“您的服務已上線”
+
+7.完成！
+
 ※学タブ(i-filter)勢の人は不確定サイトでブロックされるのを防ぐために、「your service is live」になってから
 　8~16時間後までは稼働させとく
 
