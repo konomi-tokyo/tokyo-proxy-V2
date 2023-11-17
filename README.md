@@ -43,7 +43,7 @@ Public Git repositoryの枠にhttps://github.com/korokken/tokyo-proxy.git
 
 
 
-i-filter勢の人は不確定サイトでブロックされるのを防ぐために、「your service is live」になってから8~16時間後までは稼働させとく
+学タブ(i-filter)勢の人は不確定サイトでブロックされるのを防ぐために、「your service is live」になってから8~16時間後までは稼働させとく
 
 
 
@@ -73,6 +73,5 @@ proxyなどを探したり作ったり教え合ったりします。
 
 
 P45の製作者様に大変感謝します！
-
 Many thanks to the creators of P45!
 
