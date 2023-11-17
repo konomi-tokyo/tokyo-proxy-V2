@@ -1,4 +1,6 @@
-to japanese people　If you use Google Translate, you may not understand (the translation language remains English)
+to japanese people　
+
+If you use Google Translate, you may not understand (the translation language remains English)
 
 １、作り方 ↓　(日本語版)
 
