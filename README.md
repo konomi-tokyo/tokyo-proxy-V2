@@ -4,6 +4,7 @@
 
 
 作り方 ↓
+How to make↓
 
 
 
@@ -11,6 +12,8 @@
 
 https://dashboard.render.com
 に行く(githubとrenderにログインする)
+Go to https://dashboard.render.com
+(log in to github and render)
 
 
 
