@@ -31,7 +31,8 @@ to japanese people　If you use Google Translate, you may not understand (the tr
 
 7,Complete!
 
-※学タブ(i-filter)勢の人は不確定サイトでブロックされるのを防ぐために、「your service is live」になってから　　　　8~16時間後までは稼働させとく
+※学タブ(i-filter)勢の人は不確定サイトでブロックされるのを防ぐために、「your service is live」になってから
+　8~16時間後までは稼働させとく
 
 --------------------------------------------------------------
 
