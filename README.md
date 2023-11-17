@@ -36,8 +36,7 @@ If you use Google Translate, you may not understand (the translation language re
 ※学タブ(i-filter)勢の人は不確定サイトでブロックされるのを防ぐために、「your service is live」になってから
 　8~16時間後までは稼働させとく
 
- ※People who use i-filter should keep their service running for 8 to 16 hours after "your service is live" to avoid 
- 　being blocked by unreliable sites.
+ ※People who use i-filter should keep their service running for 8 to 16 hours after "your service is live" to avoid being blocked by unreliable sites.
 
 --------------------------------------------------------------
 
