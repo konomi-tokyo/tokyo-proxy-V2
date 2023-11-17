@@ -1,4 +1,4 @@
-※janapese peopleへ　google翻訳を使っていると分からない場合があります(翻訳言語は英語のままで)
+※to japanese people　google翻訳を使っていると分からない場合があります(翻訳言語は英語のままで)
 
 
 
