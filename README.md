@@ -31,33 +31,18 @@ to japanese people　If you use Google Translate, you may not understand (the tr
 
 7,Complete!
 
-1.如何製作↓（中文版）
-
-2.造訪https://dashboard.render.com（登入github並渲染）
-
-3.按“新建+”，然後按“Web服務”
-
-4. 在公共 Git 儲存庫框架中輸入“https://github.com/korokken/tokyo-proxy.git”
-
-5. 決定網域名稱並按“建立Web服務”
-
-6. 等待“您的服務已上線”
-
-7.完成！
-
 ※学タブ(i-filter)勢の人は不確定サイトでブロックされるのを防ぐために、「your service is live」になってから
 　8~16時間後までは稼働させとく
 
 --------------------------------------------------------------
 
 konoMi[サイト教え合い]へ招待されています。
+
 招待コード : 042158
 
 https://service.lsapp.space/konomi
 
-proxyなどを探したり作ったり教え合ったりします。
-
-ココのチャットサイトに�東�京�は居ます
+上のチャットサイトに�東�京�は居ます
 
 P45の製作者様に大変感謝します！
 Many thanks to the creators of P45!
