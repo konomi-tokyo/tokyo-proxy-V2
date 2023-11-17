@@ -3,16 +3,18 @@
 
 
 
-作り方 ↓
-How to make↓
+１、作り方 ↓
+
+1, How to make↓
 
 
 
 
 
-https://dashboard.render.com
+２、https://dashboard.render.com
 に行く(githubとrenderにログインする)
-Go to https://dashboard.render.com
+
+2, Go to https://dashboard.render.com
 (log in to github and render)
 
 
@@ -20,30 +22,37 @@ Go to https://dashboard.render.com
 
 
 
-new＋を押してWeb Serviceを押す
+３，new＋を押してWeb Serviceを押す
+
+3, Press [new+ and press Web Service]
 
 
 
 
 
 
-Public Git repositoryの枠にhttps://github.com/korokken/tokyo-proxy.git
+４、Public Git repositoryの枠にhttps://github.com/korokken/tokyo-proxy.git
 を入れる
 
-
-
-
-
-
-ドメイン名を決めて　「Create Web Service」　を押す
+4, Put https://github.com/korokken/tokyo-proxy.git in the Public Git repository frame
 
 
 
 
 
 
-終わり
+５、ドメイン名を決めて　「Create Web Service」　を押す
 
+5, Decide on a domain name and press “Create Web Service"
+
+
+
+
+
+
+６、終わり
+
+6,finished
 
 
 学タブ(i-filter)勢の人は不確定サイトでブロックされるのを防ぐために、「your service is live」になってから8~16時間後までは稼働させとく
