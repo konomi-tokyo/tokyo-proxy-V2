@@ -2,36 +2,36 @@ to japanese people　
 
 If you use Google Translate, you may not understand (the translation language remains English)
 
-１、作り方 ↓　(日本語版)
+作り方 ↓　(日本語版)
 
-２、https://dashboard.render.com
+１、https://dashboard.render.com
 に行く(githubとrenderにログインする)
 
-３，「new＋」を押して「Web Service」を押す
+２，「new＋」を押して「Web Service」を押す
 
-４、Public Git repositoryの枠に「https://github.com/korokken/tokyo-proxy.git」
+３、Public Git repositoryの枠に「https://github.com/korokken/tokyo-proxy.git」
 を入れる
 
-５、ドメイン名を決めて　「Create Web Service」　を押す
+４、ドメイン名を決めて　「Create Web Service」　を押す
 
-６、「your service is live」まで待つ
+５、「your service is live」まで待つ
 
-７、完成！
+６、完成！
 
-1, How to make↓　(English edition)
+ How to make↓　(English edition)
 
-2, Go to https://dashboard.render.com
+1, Go to https://dashboard.render.com
 (log in to github and render)
 
-3, Press "new+" and press "Web Service"
+2, Press "new+" and press "Web Service"
 
-4, Enter “https://github.com/korokken/tokyo-proxy.git” in the Public Git repository frame
+3, Enter “https://github.com/korokken/tokyo-proxy.git” in the Public Git repository frame
 
-5, Decide on a domain name and press “Create Web Service"
+4, Decide on a domain name and press “Create Web Service"
 
-6,Wait until "your service is live"
+5,Wait until "your service is live"
 
-7,Complete!
+6,Complete!
 
 ※学タブ(i-filter)勢の人は不確定サイトでブロックされるのを防ぐために、「your service is live」になってから
 　8~16時間後までは稼働させとく
