@@ -27,7 +27,7 @@ Public Git repositoryのところに　https://github.com/korokken/tokyo-proxy.g
 
 
 
-ドメイン名を決めて　Create Web Service　を押す
+ドメイン名を決めて　「Create Web Service」　を押す
 
 
 
@@ -38,7 +38,7 @@ Public Git repositoryのところに　https://github.com/korokken/tokyo-proxy.g
 
 
 
-i-filter勢の人は不確定サイトでブロックされるのを防ぐために、your service is liveになってから8~16時間後までは稼働させとく
+i-filter勢の人は不確定サイトでブロックされるのを防ぐために、「your service is live」になってから8~16時間後までは稼働させとく
 
 
 
