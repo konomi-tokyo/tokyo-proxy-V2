@@ -27,7 +27,7 @@ If you use Google Translate, you may not understand (the translation language re
 2, Go to https://dashboard.render.com
 (log in to github and render)
 
-3, Press "new+" and press "Web Service"
+3, Click "new+" and click "Web Service"
 
 4, Enter “https://github.com/korokken/tokyo-proxy.git
 ” in the Public Git repository frame
