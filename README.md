@@ -22,7 +22,7 @@ If you use Google Translate, you may not understand (the translation language re
 
  How to make↓　(English edition)
 
-1, star this repository 
+1, Star this repository 
 
 2, Go to https://dashboard.render.com
 (log in to github and render)
