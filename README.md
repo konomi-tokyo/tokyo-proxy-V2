@@ -1,6 +1,7 @@
 # 東京プロキシ
-renderかcodesandboxなら作れる
+身内の方へ
 
+仮にこのサイト(東京プロキシ)を作ったらURLを教えて下さい。理由は東京プロキシを栄えさせるためです。
 
 to japanese people　
 
