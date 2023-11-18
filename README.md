@@ -54,6 +54,8 @@ If you use Google Translate, you may not understand (the translation language re
 
   # sandboxで作成する方法　How to create with sandbox
 
+  作り方 ↓ (日本語版)
+  
   １、https://codesandbox.io
   に行く(Githubとcodesandboxを連携させとく)
 
@@ -67,6 +69,8 @@ If you use Google Translate, you may not understand (the translation language re
   ５、画面下の枠にnpm run startと入力しエンター
 
   ６、完成！
+
+   How to make↓　(English edition)
 
 1,Go to https://codesandbox.io
 (link Github and codesandbox)
