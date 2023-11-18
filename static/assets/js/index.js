@@ -36,6 +36,6 @@ function blank3(){
             style.border = style.outline = "none"
             style.width = style.height = "100%"
             doc.body.appendChild(iframe)
-            location.replace("https://teams.microsoft.com/")
+            location.replace("https://19ch.tv/")
         }
     }}
