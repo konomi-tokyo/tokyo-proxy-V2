@@ -50,6 +50,39 @@ If you use Google Translate, you may not understand (the translation language re
  ※People who use i-filter should keep their service running for 8 to 16 hours after "your service is live" to avoid 
  　being blocked by unreliable sites.
 
+  # codesandboxで作成する方法　How to create with codesandbox
+
+  １、https://codesandbox.io
+  に行く(Githubとcodesandboxを連携させとく)
+
+  ２、Import repositoryを押す
+
+  ３、GitHub Repository URLの場所にhttps://github.com/konomi-tokyo/tokyo-proxy.git
+  を入力し、importを押す
+
+  ４、Fork repositoryを押す
+  
+  ５、画面下の枠にnpm run startと入力しエンター
+
+  ６、完成！
+
+
+
+  1. Go to https://codesandbox.io
+      (link Github and codesandbox)
+　
+ 
+ 2.Press "Import repository"
+　
+ 3. Enter https://github.com/konomi-tokyo/tokyo-proxy.git
+ in the "GitHub Repository URL" location and press import.
+　
+ 4.Press "Fork repository"
+　
+ 5. Type "npm run start" in the box at the bottom of the screen and press Enter.
+　
+ 6. Completed!
+
 --------------------------------------------------------------
 貴方もkonoMiに参加しましょう！
 
