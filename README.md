@@ -50,7 +50,9 @@ If you use Google Translate, you may not understand (the translation language re
  ※People who use i-filter should keep their service running for 8 to 16 hours after "your service is live" to avoid 
  　being blocked by unreliable sites.
 
-  # codesandboxで作成する方法　How to create with codesandbox
+-----------------------------------------------------------------------------
+
+  # sandboxで作成する方法　How to create with sandbox
 
   １、https://codesandbox.io
   に行く(Githubとcodesandboxを連携させとく)
