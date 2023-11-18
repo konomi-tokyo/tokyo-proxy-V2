@@ -68,21 +68,7 @@ If you use Google Translate, you may not understand (the translation language re
 
   ６、完成！
 
-
-
-  1. Go to https://codesandbox.io
-      (link Github and codesandbox)
-　
- 2,Press "Import repository"
-　
- 3, Enter https://github.com/konomi-tokyo/tokyo-proxy.git
-　　 in the "GitHub Repository URL" location and press import.
-　
- 4,Press "Fork repository"
-　
-5, Type "npm run start" in the box at the bottom of the screen and press Enter.
-　
-6,Completed!
+　2
 
 --------------------------------------------------------------
 貴方もkonoMiに参加しましょう！
