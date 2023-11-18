@@ -11,7 +11,7 @@ If you use Google Translate, you may not understand (the translation language re
 
 ３，「new＋」を押して「Web Service」を押す
 
-４、Public Git repositoryの枠に「https://github.com/korokken/tokyo-proxy.git
+４、Public Git repositoryの枠に「https://github.com/konomi-tokyo/tokyo-proxy.git
 」を入れる
 
 ５、ドメイン名を決めて　「Create Web Service」　を押す
@@ -29,7 +29,7 @@ If you use Google Translate, you may not understand (the translation language re
 
 3, Click "new+" and click "Web Service"
 
-4, Enter “https://github.com/korokken/tokyo-proxy.git
+4, Enter “https://github.com/konomi-tokyo/tokyo-proxy.git
 ” in the Public Git repository frame
 
 5, Decide on a domain name and press “Create Web Service"
