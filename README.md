@@ -50,20 +50,15 @@ If you use Google Translate, you may not understand (the translation language re
 
 --------------------------------------------------------------
 
-貴方もkonoMiに参加しましょう！
-Let's join konoMi too!
+貴方もkonoMiに参加しましょう！　　　　　　　|Let's join konoMi too!
 
-konoMi[サイト教え合い]へ招待されています。
-You are invited to konoMi [site sharing].
+konoMi[サイト教え合い]へ招待されています。　|You are invited to konoMi [site sharing].
 
-招待コード : 042158
-Invitation code: 042158
+招待コード : 042158 　　　　　　　　　　　　|Invitation code: 042158
 
-https://service.lsapp.space/konomi
+https://service.lsapp.space/konomi　　　 |
 
-上のチャットサイトに�東�京�は居ます。
-Tokyo is located on the chat site above.
+上のチャットサイトに�東�京�は居ます。 　　|Tokyo is located on the chat site above.
 
-P45の製作者様に大変感謝します！
-Many thanks to the creators of P45!
+P45の製作者様に大変感謝します！             |Many thanks to the creators of P45!
 
