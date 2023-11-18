@@ -6,6 +6,10 @@ to japanese people　
 
 If you use Google Translate, you may not understand (the translation language remains English)
 
+renderで作成する方法
+
+How to create with render
+
 作り方 ↓　(日本語版)
 
 １、このリポジトリにスターを付ける
