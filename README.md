@@ -7,7 +7,7 @@ If you use Google Translate, you may not understand (the translation language re
 １、このリポジトリにスターを付ける
 
 ２、https://dashboard.render.com
-に行く(githubとrenderにログインする)
+に行く(githubとrenderにログインしておく)
 
 ３，「new＋」を押して「Web Service」を押す
 
