@@ -46,6 +46,10 @@ If you use Google Translate, you may not understand (the translation language re
 
 --------------------------------------------------------------
 
+貴方もkonoMiに参加しましょう！
+
+Let's join konoMi too!
+
 konoMi[サイト教え合い]へ招待されています。
 
 招待コード : 042158
