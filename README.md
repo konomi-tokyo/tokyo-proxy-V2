@@ -63,9 +63,9 @@ Invitation code: 042158
 
 https://service.lsapp.space/konomi
 
-上のチャットサイトに�東�京�は居ます。 
+�東�京�は上記のチャットサイトで活動しています 
 
-Tokyo is located on the chat site above.
+Tokyo is active on the above chat site.
 
 P45の製作者様に大変感謝します！ 
 
