@@ -82,7 +82,8 @@ in the "GitHub Repository URL" location and press import.
 
 4, Press "Fork repository"
 
-5, Type "npm run start" in the box at the bottom of the screen and press Enter.
+5, Type "npm run start" in the box at the bottom of the screen and press
+　 Enter.
 
 6, Completed!
 
