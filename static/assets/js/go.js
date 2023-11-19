@@ -4,7 +4,7 @@ function go(value) {
     .register("./sw.js", {
       scope: __uv$config.prefix,
     })
-    .then(() => { 
+    .then(() => {
       let url = value.trim();
       if (!isUrl(url)) url = "https://www.google.com/search?q=" + url;
       else if (!(url.startsWith("https://") || url.startsWith("http://")))
