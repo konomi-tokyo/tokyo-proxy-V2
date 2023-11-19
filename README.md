@@ -121,6 +121,12 @@ https://service.lsapp.space/konomi
 
 Tokyo is active on the above chat site.
 
+fiicenでフォローしてくれたら嬉しいです
+
+I would be happy if you could follow me on fiicen
+
+https://fiicen.jp/field/tokyo_konoMi/
+
 P45の製作者様に大変感謝します！ 
 
 Many thanks to the creators of P45!
