@@ -1,4 +1,4 @@
-self.__uv$config = { 
+self.__uv$config = {
     prefix: '/service/',
     bare: '/bare/',
     encodeUrl: Ultraviolet.codec.xor.encode,
