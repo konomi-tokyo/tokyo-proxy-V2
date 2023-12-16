@@ -8,4 +8,4 @@
 それに伴い、東京プロキシ(1)はアーカイブ化しようと思います。
 
 # 作り方
-render 又は Codesandbox で作ってください。vercel だと機能しません。hop.io は知らん()
+render 又は Codesandbox で作ってください。vercel だと機能しません。hop.io は知らん（）
