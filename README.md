@@ -1,5 +1,7 @@
 # 東京プロキシ
 
+ディスコhttps://discord.gg/44y6tSA3bM
+
 
 
 東京プロキシ2→ https://github.com/konomi-tokyo/tokyo-proxy2
