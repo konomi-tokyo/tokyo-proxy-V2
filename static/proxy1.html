@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+  <body background="https://get.wallhere.com/photo/painting-landscape-water-reflection-trees-sky-clouds-artwork-animals-bears-snow-mountains-nature-2263390.jpg">
+  
+</body>
+  <head>
+<script type="text/javascript">
+  // This is a CodeSandbox injection script that's used to
+  // add navigation and inspector functionality to the preview
+  (function () {
+    var script = document.createElement("script");
+    script.src = "https://codesandbox.io/p/preview-protocol.js";
+    script.defer = true;
+    script.async = true;
+    (document.body || document.documentElement).appendChild(script);
+  })();
+
+  const isIFramePreview = window.top !== window.self;
+
+  // Only run this script in editor context
+  if (isIFramePreview) {
+    // This script is used to enable Chrome DevTools functionality
+    (function () {
+      var script = document.createElement("script");
+      script.src =
+        "https://codesandbox.io/p/chrome-devtool/protocol/index.js";
+
+      script.onload = () => {
+        const devtoolProtocol = window.chobitsu;
+        if (devtoolProtocol) {
+          window.addEventListener("message", (event) => {
+            const { type, data } = event.data;
+
+            if (type === "FROM_DEVTOOL") {
+              devtoolProtocol.sendRawMessage(data);
+            }
+          });
+
+          devtoolProtocol.setOnMessage((data) => {
+            if (data.includes('"id":"tmp')) {
+              return;
+            }
+
+            window.parent.postMessage({ type: "TO_DEVTOOL", data }, "*");
+          });
+
+          devtoolProtocol.sendRawMessage(
+            `{"id":5,"method":"Runtime.enable","params":{}}`
+          );
+        }        
+      }
+
+      (document.head || document.documentElement).prepend(script);
+    })();
+  }
+
+  if (typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ === "undefined") {
+    let nextID = 0;
+    let hook = (__REACT_DEVTOOLS_GLOBAL_HOOK__ = {
+      renderers: new Map(),
+      supportsFiber: true,
+      inject: (renderer) => {
+        const id = nextID++;
+        hook.renderers.set(id, renderer);
+        return id;
+      },
+      onScheduleFiberRoot() {},
+      onCommitFiberRoot() {},
+      onCommitFiberUnmount() {},
+    });
+  }
+
+  document.currentScript.remove();
+</script>
+    <br>
+    <br>
+    <title>東京プロキシ８</title>
+    <meta charset="UTF-8" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter&display=swap"
+      rel="stylesheet"
+    />
+    <h1><font color="#00ff00">東京プロキシ８サーバーは寝ている．．．</font></h1>
+     <h1><font color="#00ff00">これもブロックを防ぐための行動</font></h1>
+    <font color="#fff000">・</font><a href="https://fiicen.jp/field/tokyo_konoMi/" class="active">fiicen</a>　<br>
+    <font color="#fff000">・</font><a href="https://github.com/konomi-tokyo" class="active">GitHub</a> <br>
+    <font color="#fff000">・</font><a href="https://knoow.jp/@/tokyo_konomi" class="active">knoow</a>
+    <style>
+      :root {
+        --title: #000;
+        --body: #373737;
+        --bg: #fff;
+        --link: #653ffd;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --title: #e5e5e5;
+          --body: #808080;
+          --bg: #0f0e0e;
+          --link: #edffa5;
+        }
+      }
+
+      html {
+        margin: 0;
+        overflow: hidden;
+      }
+
+      * {
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+
+      body {
+        font-family: "Inter", sans-serif;
+        background-color: var(--bg);
+        color: var(--body);
+        line-height: 1.25rem;
+      }
+
+      #app {
+        position: relative;
+        height: 100vh;
+        width: 100vw;
+        display: flex;
+        align-items: center;
+      }
+
+      @keyframes enter {
+        from {
+          opacity: 0;
+          transform: translateY(10px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0px);
+        }
+      }
+
+      .container {
+        margin: 0 8.5rem;
+        max-width: 22rem;
+        line-height: 1.4;
+
+        animation: enter 0.8s ease-in-out forwards;
+      }
+
+      h1 {
+        color: var(--title);
+        font-size: 1.5rem;
+        line-height: 2.625rem;
+        margin: 0;
+      }
+
+      a {
+        position: relative;
+        color: var(--link);
+        white-space: nowrap;
+        text-decoration: none;
+      }
+
+      a:before {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 1px;
+        background: currentColor;
+        top: 100%;
+        left: 0;
+        pointer-events: none;
+
+        transform-origin: 100% 50%;
+        transform: scale3d(0, 1, 1);
+        transition: transform 0.3s;
+      }
+
+      a:hover::before {
+        transform-origin: 0% 50%;
+        transform: scale3d(1, 1, 1);
+      }
+
+      a > span {
+        font-size: 0.75rem;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="app"></div>
+    <script>
+      const branchIdPort = document.location.host.split(".")[0];
+      const [branchId, _] = branchIdPort.split("-");
+      document.getElementById("app").innerHTML = `
+        <div class="container">
+          <h1><strong><font color="#ffffff">東京プロキシ8</font></strong></h1>
+          <h3><font color="#ffff00">
+          サーバーがまだ起動してないようです。</font> <a href="./proxy.html">サーバーを起こす</a>
+          </h3>
+      </div>
+      `;
+    </script>
+  </body>
+</html>
