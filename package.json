@@ -8,7 +8,7 @@
     "node": ">=16.0.0"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node proxy.js"
   },
   "keywords": [
     "P45"
