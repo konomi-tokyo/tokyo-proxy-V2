@@ -1,4 +1,4 @@
-# 東京プロキシ8
+# 東京プロキシ V2
 
 ディスコhttps://discord.gg/44y6tSA3bM
 
