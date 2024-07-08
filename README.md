@@ -1,6 +1,6 @@
 # 東京プロキシ V2
 
-ディスコhttps://discord.gg/44y6tSA3bM
+ディスコ[https://discord.gg/44y6tSA3bM](https://discord.gg/eeqyqCGcMq)
 
 東京プロキシの絶対にブロックされ(たく)ない版
 
