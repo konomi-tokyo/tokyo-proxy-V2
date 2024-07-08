@@ -105,7 +105,7 @@ Invitation code: 042158
 https://service.lsapp.space/konomi
 
 Discord
-https://discord.gg/44y6tSA3bM
+https://discord.gg/eeqyqCGcMq
 
 �東�京�は上記のチャットサイトで活動しています 
 
